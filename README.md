@@ -1,3 +1,5 @@
+# discord bot with RAG using langchain.
+
 ---
 title: Discord Bot
 emoji: 📚
