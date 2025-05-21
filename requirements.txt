@@ -1,0 +1,9 @@
+discord.py>=2.0.0  # Use discord.py v2 or later for Intents
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community # May still be needed for FAISS or other components
+langchain-core
+faiss-cpu         # Or faiss-gpu if your deployment environment has a GPU
+tiktoken
+# Add any other specific dependencies your LangChain setup might implicitly use
