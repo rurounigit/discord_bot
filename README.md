@@ -424,4 +424,4 @@ Contributions are welcome! If you have suggestions for improvements or find a bu
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details (if you add one). If no LICENSE file is present, assume the code is proprietary unless otherwise stated by the author.
+Apache 2.0
